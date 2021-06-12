@@ -96,10 +96,6 @@
 
     }
 
-    footer {
-        padding-left: 10px;
-    }
-
     .imagebox {
         position: relative;
         height: 300px;
@@ -190,14 +186,14 @@
         margin-bottom: 30px;
     }
 
-  
+
 
     .text {
         margin-bottom: 0px;
         margin-top: 0px;
     }
 
-   
+
 
     #header {
         text-align: center;
@@ -247,4 +243,15 @@
         position: absolute;
     right: 15px;
     top: .4em;
+    }
+
+    footer button {
+        background-color: green;
+        width: 100%;
+        color: white;
+        padding: 10px;
+        margin: 0;
+    }
+    footer{
+        margin-top: 20px;
     }
